@@ -1,3 +1,3 @@
-# angular-ivy-riwkf8
+# Bar Chart with Angular and D3
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-riwkf8)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-r)
